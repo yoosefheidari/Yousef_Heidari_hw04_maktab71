@@ -7,7 +7,7 @@
     static DataStore()
     {
         Users = new List<User>();
-        var admin = new Admin("admin@gmail.com", "654321");
+        var admin = new Admin("admin", "123");
         admin.Activate();
         Users.Add(admin);
         CurrentUser =null;

@@ -1,6 +1,6 @@
-﻿IUserRepository _userRepository = new UserRepository();
-IStudentRepository _studentRepository = new StudentRepository();
-ICourseRepository _courseRepository = new CourseRepository();
+﻿//**********************************************
+IUserRepository _userRepository = new UserRepository();
+ICourseRepository _courseRepository = new CourseRepositoryFile();
 var currentuser = _userRepository.GetCurrentUser();
 //****************************************************
 if (currentuser == null)
@@ -213,6 +213,7 @@ void AdminMenu()
         Console.WriteLine("E - Edit User Information");
         Console.WriteLine("L - List Of Users");
         Console.WriteLine("A - Activate User");
+        Console.WriteLine("X - List Of Courses");
         Console.WriteLine("O - LogOff");
         Console.Write("Please Select Action : ");
         var inputKey = Console.ReadKey();
@@ -221,6 +222,14 @@ void AdminMenu()
         {
             case ConsoleKey.L:
                 PrintListOfUser();
+                break;
+            case ConsoleKey.X:
+                var allcourses=_courseRepository.GetCourses();
+                foreach (var citem in allcourses)
+                {
+                    Console.WriteLine($"{citem.Name} - {citem.Grade} - {citem._Teacher}");
+                }
+                Console.ReadKey();
                 break;
             case ConsoleKey.E:
                 EditInfo();

@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "y2nLpv1MDa82x0C4YQO54jYbCC7vILmBNTkShyvAje9AFK6FM6lH4y8Hc7YiOs+N6ONStT98ZUICD8BHXWS2bw==",
+  "dgSpecHash": "NFnS3tOHwgjLQNa4YOfJ1poqjdJToFcD7HpfBtqzK7SpfB5Xq1Q8UgHQI6keu+9EXkLFJ716xL4P/yJKkBuXtg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Yousef1371\\Desktop\\ElectronicSchool\\ElectronicSchool\\ElectronicSchool.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Yousef1371\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -28,3 +28,5 @@ C:\Users\Yousef1371\Desktop\ElectronicSchool\ElectronicSchool\obj\Debug\net6.0\E
 C:\Users\Yousef1371\Desktop\ElectronicSchool\ElectronicSchool\obj\Debug\net6.0\ref\ElectronicSchool.dll
 C:\Users\Yousef1371\Desktop\ElectronicSchool\ElectronicSchool\obj\Debug\net6.0\ElectronicSchool.pdb
 C:\Users\Yousef1371\Desktop\ElectronicSchool\ElectronicSchool\obj\Debug\net6.0\ElectronicSchool.genruntimeconfig.cache
+C:\Users\Yousef1371\Desktop\ElectronicSchool\ElectronicSchool\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Yousef1371\Desktop\ElectronicSchool\ElectronicSchool\obj\Debug\net6.0\ElectronicSchool.csproj.CopyComplete
