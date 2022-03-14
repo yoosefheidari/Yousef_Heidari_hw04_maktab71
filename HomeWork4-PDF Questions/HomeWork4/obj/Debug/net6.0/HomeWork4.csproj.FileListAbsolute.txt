@@ -1,0 +1,17 @@
+C:\Users\Yousef1371\Desktop\Visual Studio\HW04\HomeWork4\HomeWork4\obj\Debug\net6.0\HomeWork4.csproj.AssemblyReference.cache
+C:\Users\Yousef1371\Desktop\Visual Studio\HW04\HomeWork4\HomeWork4\obj\Debug\net6.0\HomeWork4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yousef1371\Desktop\Visual Studio\HW04\HomeWork4\HomeWork4\obj\Debug\net6.0\HomeWork4.AssemblyInfoInputs.cache
+C:\Users\Yousef1371\Desktop\Visual Studio\HW04\HomeWork4\HomeWork4\obj\Debug\net6.0\HomeWork4.AssemblyInfo.cs
+C:\Users\Yousef1371\Desktop\Visual Studio\HW04\HomeWork4\HomeWork4\obj\Debug\net6.0\HomeWork4.csproj.CoreCompileInputs.cache
+C:\Users\Yousef1371\Desktop\Visual Studio\HW04\HomeWork4\HomeWork4\bin\Debug\net6.0\HomeWork4.exe
+C:\Users\Yousef1371\Desktop\Visual Studio\HW04\HomeWork4\HomeWork4\bin\Debug\net6.0\HomeWork4.deps.json
+C:\Users\Yousef1371\Desktop\Visual Studio\HW04\HomeWork4\HomeWork4\bin\Debug\net6.0\HomeWork4.runtimeconfig.json
+C:\Users\Yousef1371\Desktop\Visual Studio\HW04\HomeWork4\HomeWork4\bin\Debug\net6.0\HomeWork4.dll
+C:\Users\Yousef1371\Desktop\Visual Studio\HW04\HomeWork4\HomeWork4\bin\Debug\net6.0\ref\HomeWork4.dll
+C:\Users\Yousef1371\Desktop\Visual Studio\HW04\HomeWork4\HomeWork4\bin\Debug\net6.0\HomeWork4.pdb
+C:\Users\Yousef1371\Desktop\Visual Studio\HW04\HomeWork4\HomeWork4\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Yousef1371\Desktop\Visual Studio\HW04\HomeWork4\HomeWork4\obj\Debug\net6.0\HomeWork4.csproj.CopyComplete
+C:\Users\Yousef1371\Desktop\Visual Studio\HW04\HomeWork4\HomeWork4\obj\Debug\net6.0\HomeWork4.dll
+C:\Users\Yousef1371\Desktop\Visual Studio\HW04\HomeWork4\HomeWork4\obj\Debug\net6.0\ref\HomeWork4.dll
+C:\Users\Yousef1371\Desktop\Visual Studio\HW04\HomeWork4\HomeWork4\obj\Debug\net6.0\HomeWork4.pdb
+C:\Users\Yousef1371\Desktop\Visual Studio\HW04\HomeWork4\HomeWork4\obj\Debug\net6.0\HomeWork4.genruntimeconfig.cache
