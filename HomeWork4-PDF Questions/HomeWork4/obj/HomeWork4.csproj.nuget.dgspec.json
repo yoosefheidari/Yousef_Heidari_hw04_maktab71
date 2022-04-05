@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Yousef1371\\Desktop\\Visual Studio\\HW04\\HomeWork4\\HomeWork4\\HomeWork4.csproj": {}
+    "C:\\Users\\Yousef1371\\Desktop\\temp\\Yousef_Heidari_hw04_maktab71\\HomeWork4-PDF Questions\\HomeWork4\\HomeWork4.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Yousef1371\\Desktop\\Visual Studio\\HW04\\HomeWork4\\HomeWork4\\HomeWork4.csproj": {
+    "C:\\Users\\Yousef1371\\Desktop\\temp\\Yousef_Heidari_hw04_maktab71\\HomeWork4-PDF Questions\\HomeWork4\\HomeWork4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Yousef1371\\Desktop\\Visual Studio\\HW04\\HomeWork4\\HomeWork4\\HomeWork4.csproj",
+        "projectUniqueName": "C:\\Users\\Yousef1371\\Desktop\\temp\\Yousef_Heidari_hw04_maktab71\\HomeWork4-PDF Questions\\HomeWork4\\HomeWork4.csproj",
         "projectName": "HomeWork4",
-        "projectPath": "C:\\Users\\Yousef1371\\Desktop\\Visual Studio\\HW04\\HomeWork4\\HomeWork4\\HomeWork4.csproj",
+        "projectPath": "C:\\Users\\Yousef1371\\Desktop\\temp\\Yousef_Heidari_hw04_maktab71\\HomeWork4-PDF Questions\\HomeWork4\\HomeWork4.csproj",
         "packagesPath": "C:\\Users\\Yousef1371\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Yousef1371\\Desktop\\Visual Studio\\HW04\\HomeWork4\\HomeWork4\\obj\\",
+        "outputPath": "C:\\Users\\Yousef1371\\Desktop\\temp\\Yousef_Heidari_hw04_maktab71\\HomeWork4-PDF Questions\\HomeWork4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Yousef1371\\AppData\\Roaming\\NuGet\\NuGet.Config",

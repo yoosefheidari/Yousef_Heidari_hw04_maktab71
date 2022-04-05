@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Yousef1371\\Desktop\\ElectronicSchool\\ElectronicSchool\\ElectronicSchool.csproj": {}
+    "C:\\Users\\Yousef1371\\Desktop\\temp\\Yousef_Heidari_hw04_maktab71\\ElectronicSchool\\ElectronicSchool.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Yousef1371\\Desktop\\ElectronicSchool\\ElectronicSchool\\ElectronicSchool.csproj": {
+    "C:\\Users\\Yousef1371\\Desktop\\temp\\Yousef_Heidari_hw04_maktab71\\ElectronicSchool\\ElectronicSchool.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Yousef1371\\Desktop\\ElectronicSchool\\ElectronicSchool\\ElectronicSchool.csproj",
+        "projectUniqueName": "C:\\Users\\Yousef1371\\Desktop\\temp\\Yousef_Heidari_hw04_maktab71\\ElectronicSchool\\ElectronicSchool.csproj",
         "projectName": "ElectronicSchool",
-        "projectPath": "C:\\Users\\Yousef1371\\Desktop\\ElectronicSchool\\ElectronicSchool\\ElectronicSchool.csproj",
+        "projectPath": "C:\\Users\\Yousef1371\\Desktop\\temp\\Yousef_Heidari_hw04_maktab71\\ElectronicSchool\\ElectronicSchool.csproj",
         "packagesPath": "C:\\Users\\Yousef1371\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Yousef1371\\Desktop\\ElectronicSchool\\ElectronicSchool\\obj\\",
+        "outputPath": "C:\\Users\\Yousef1371\\Desktop\\temp\\Yousef_Heidari_hw04_maktab71\\ElectronicSchool\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Yousef1371\\AppData\\Roaming\\NuGet\\NuGet.Config",
